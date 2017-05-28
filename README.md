@@ -1,7 +1,6 @@
  RFID_Read
-
 ============
 #Author:`Thomas Smith`<\br>
 #Work in `NUC`<\br>
-#作者：`江润东`
-#单位：`中北大学`
+#浣滆�咃細`姹熸鼎涓渀
+#鍗曚綅锛歚涓寳澶у`
